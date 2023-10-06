@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mirshaadrayiz
-- 👀 I’m interested in Artificial Intelligence & Machine Learning
-- 🌱 I’m currently learning new trends in Machine Learning and Data Analytics
-- 💞️ I’m looking to collaborate on new and exciting ML projects
+- 👀 I have a strong interest in Artificial Intelligence & Machine Learning
+- 🌱 I am currently actively involved in ML projects and learning new trends in Machine Learning and Data Analytics
+- 💞️ I am looking for opportunities to apply my skills on real-world application by collaborating on new and exciting ML projects
 
 <!---
 mirshaadrayiz/mirshaadrayiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
